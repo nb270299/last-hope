@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/last-hope/static/css/main.803c913f.css",
+    "main.js": "/last-hope/static/js/main.02191f28.js",
+    "static/js/453.20a5ace1.chunk.js": "/last-hope/static/js/453.20a5ace1.chunk.js",
+    "index.html": "/last-hope/index.html",
+    "main.803c913f.css.map": "/last-hope/static/css/main.803c913f.css.map",
+    "main.02191f28.js.map": "/last-hope/static/js/main.02191f28.js.map",
+    "453.20a5ace1.chunk.js.map": "/last-hope/static/js/453.20a5ace1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.803c913f.css",
+    "static/js/main.02191f28.js"
+  ]
+}
